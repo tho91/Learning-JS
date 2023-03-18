@@ -36,5 +36,5 @@ class Backpack {
     this.strapLength.right = lengthRight;
   }
 }
-
-export default Backpack;
+module.exports = Backpack;
+// export default Backpack;
